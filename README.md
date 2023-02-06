@@ -1,5 +1,5 @@
-# Extrair SubString de uma String - Delphi7
-Código em Delphi7 para copiar uma parte de uma String a partir de um caractere informado até outro caractere informado. Podendo pularum número de ocorrências desses caracteres.
+# Extract a SubString from a String - Delphi7
+Code in Delphi 7 to copy a part of a String from an informed character to another informed character. Being able to skip a number of occurrences of these characters.
 
 ```diff
   @@ Exemplos: @@
